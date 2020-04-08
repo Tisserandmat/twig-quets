@@ -1,0 +1,12 @@
+{
+    "name": "tisserand/twig",
+    "authors": [
+        {
+            "name": "Tisserand Mathias",
+            "email": "tisserand.mat@gmail.com"
+        }
+    ],
+    "require": {
+        "twig/twig": "^3.0"
+    }
+}
